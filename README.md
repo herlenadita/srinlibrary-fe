@@ -8,4 +8,8 @@ It includes a responsive UI, list relationships, CRUD operations and search func
 # Project Result
 <img src="https://github.com/herlenadita/srinlibrary-fe/blob/master/project-result.gif"/>
 
+## Authors
+
+- [@herlenadita](https://github.com/herlenadita)
+
 
