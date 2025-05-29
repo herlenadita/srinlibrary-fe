@@ -6,7 +6,6 @@ It includes a responsive UI, list relationships, CRUD operations and search func
 
 
 # Project Result
-![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/herlenadita/srinlibrary-fe/blob/master/project-result.gif
-)
+<img src="https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/herlenadita/srinlibrary-fe/blob/master/project-result.gif"/>
 
 
